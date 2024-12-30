@@ -11,6 +11,8 @@ Number of Attributes: 4 (sepal length, sepal width, petal length, petal width)
 Class Distribution: 50 instances per class (Iris setosa, Iris versicolor, Iris virginica)
 Attribute Information: All attributes are numeric and measured in centimeters.
 
+Dataset url = 'https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data'
+
 ## Methodology
 
 The following steps were undertaken in this project:
